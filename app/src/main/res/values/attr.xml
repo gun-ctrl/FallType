@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressVIew">
+        <attr name="lineWidth" format="float"/>
+        <attr name="backgroundCircleColor" format="color|reference"/>
+        <attr name="foregroundCircleColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
